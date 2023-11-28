@@ -3,8 +3,8 @@
 /* Visibility property */
 .visible
 {
+  visibility: visible;
 }
-visibility: visible;
 .hidden {
 visibility: hidden;
 }
