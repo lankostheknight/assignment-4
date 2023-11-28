@@ -15,7 +15,7 @@ opacity: 1;
 .op_0 {
 opacity: 0;
 }
-_op_05 {
+.op_05 {
 opacity: 0.5;
 }
 /* Display */
@@ -31,6 +31,6 @@ font-weight: bold;
 display: block;
 }
 h3 {
-}
 font-weight: bold;
 background-color: aquamarine; text-align: center;
+}
