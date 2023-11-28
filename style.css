@@ -1,9 +1,8 @@
 ﻿
 
-/* Visibility property */
-.visible
+/* Visibility property */ .visible
 {
-  visibility: visible;
+visibility: visible;
 }
 .hidden {
 visibility: hidden;
@@ -12,7 +11,7 @@ visibility: hidden;
 .op_1 {
 opacity: 1;
 }
-.op_0 {
+_op_0 {
 opacity: 0;
 }
 .op_05 {
@@ -20,21 +19,19 @@ opacity: 0.5;
 }
 /* Display */
 .none {
+}
 display: none;
 font-weight: bold;
-}
-display: inline;
-
 .inline {
-  display: inline;
-  font-weight: bold;
+display: inline;
+font-weight: bold;
 }
-
 .block {
 display: block;
-  font-weight: bold
+font-weight: bold;
 }
 h3 {
-background-color: aquamarine;
+background-color:aquamarine;
   text-align: center;
 }
+
