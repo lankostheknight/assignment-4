@@ -1,0 +1,36 @@
+﻿
+
+/* Visibility property */
+.visible
+{
+}
+visibility: visible;
+.hidden {
+visibility: hidden;
+}
+/* Opacity */
+.op_1 {
+opacity: 1;
+}
+.op_0 {
+opacity: 0;
+}
+_op_05 {
+opacity: 0.5;
+}
+/* Display */
+.none {
+display: none;
+font-weight: bold;
+display: inline;
+}
+.inline {
+}
+font-weight: bold;
+.block {
+display: block;
+}
+h3 {
+}
+font-weight: bold;
+background-color: aquamarine; text-align: center;
